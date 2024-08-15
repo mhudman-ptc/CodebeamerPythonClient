@@ -1,0 +1,11 @@
+# WorkingSetTrackerUpdateRequest
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**baseline_id** | **int** |  | [optional] 
+**cbql** | **str** |  | [optional] 
+**tracker** | [**TrackerReference**](TrackerReference.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

@@ -1,0 +1,47 @@
+# TrackerItem
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**accrued_millis** | **int** | Accrued work time of a tracker item in milliseconds | [optional] 
+**areas** | [**list[AbstractReference]**](AbstractReference.md) | Areas of a tracker item | [optional] 
+**assigned_at** | **datetime** | Assignee date of a tracker item | [optional] 
+**assigned_to** | [**list[AbstractReference]**](AbstractReference.md) | Assignees of a tracker item | [optional] 
+**categories** | [**list[AbstractReference]**](AbstractReference.md) | Categories of a tracker item | [optional] 
+**children** | [**list[TrackerItemReference]**](TrackerItemReference.md) | Children of a tracker item | [optional] 
+**closed_at** | **datetime** | Close date of a tracker item | [optional] 
+**comments** | [**list[CommentReference]**](CommentReference.md) | Comment in the tracker item | [optional] 
+**created_at** | **datetime** | The date when the entity was created | [optional] 
+**created_by** | [**UserReference**](UserReference.md) |  | [optional] 
+**custom_fields** | [**list[AbstractFieldValue]**](AbstractFieldValue.md) | Custom field of a tracker item | [optional] 
+**description** | **str** | Description of the entity | [optional] 
+**description_format** | **str** | Description format of the entity | [optional] 
+**end_date** | **datetime** | End date of a tracker item | [optional] 
+**estimated_millis** | **int** | Estimated work time of a tracker item in milliseconds | [optional] 
+**formality** | [**AbstractReference**](AbstractReference.md) |  | [optional] 
+**id** | **int** | Id of the entity | [optional] 
+**modified_at** | **datetime** | The date when the entity was modified | [optional] 
+**modified_by** | [**UserReference**](UserReference.md) |  | [optional] 
+**name** | **str** | Name of the entity | [optional] 
+**ordinal** | **int** | Ordinal of a tracker item | [optional] 
+**owners** | [**list[AbstractReference]**](AbstractReference.md) | Owners of a tracker item | [optional] 
+**parent** | [**TrackerItemReference**](TrackerItemReference.md) |  | [optional] 
+**platforms** | [**list[AbstractReference]**](AbstractReference.md) | Platforms of a tracker item | [optional] 
+**priority** | [**AbstractReference**](AbstractReference.md) |  | [optional] 
+**release_method** | [**AbstractReference**](AbstractReference.md) |  | [optional] 
+**resolutions** | [**list[AbstractReference]**](AbstractReference.md) | Resolutions of a tracker item | [optional] 
+**severities** | [**list[AbstractReference]**](AbstractReference.md) | Severities of a tracker item | [optional] 
+**spent_millis** | **int** | Spent work time of a tracker item in milliseconds | [optional] 
+**start_date** | **datetime** | Start date of a tracker item | [optional] 
+**status** | [**AbstractReference**](AbstractReference.md) |  | [optional] 
+**story_points** | **int** | Story points of a tracker item | [optional] 
+**subjects** | [**list[AbstractReference]**](AbstractReference.md) | Subjects of a tracker item | [optional] 
+**tags** | [**list[Label]**](Label.md) | Tags of the tracker item | [optional] 
+**teams** | [**list[AbstractReference]**](AbstractReference.md) | Teams of a tracker item | [optional] 
+**tracker** | [**TrackerReference**](TrackerReference.md) |  | [optional] 
+**type_name** | **str** | Type name of a tracker item | [optional] 
+**version** | **int** | Version of a tracker item | [optional] 
+**versions** | [**list[AbstractReference]**](AbstractReference.md) | Versions of a tracker item | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

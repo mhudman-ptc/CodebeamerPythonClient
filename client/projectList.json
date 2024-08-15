@@ -1,0 +1,237 @@
+[
+  {
+    "id": 2,
+    "name": "codebeamer DPT Project",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 3,
+    "name": "Jabil QMS Document",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 4,
+    "name": "Insulet",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 5,
+    "name": "Widget Dev",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 6,
+    "name": "Jabil Demo",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 7,
+    "name": "Testing",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 8,
+    "name": "Mabe Ideation Demo",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 9,
+    "name": "Mabe Ideas Project",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 10,
+    "name": "Intland Software's Default Template",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 11,
+    "name": "Import Samples",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 12,
+    "name": "Export Playtime",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 13,
+    "name": "Template",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 15,
+    "name": "Actual1",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 16,
+    "name": "Template Local",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 17,
+    "name": "Mike's Sample Template",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 18,
+    "name": "Another Template Test",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 19,
+    "name": "Ref Project",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 20,
+    "name": "Medical Software Engineering Template cb 21.09 Updated wikiw",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 21,
+    "name": "inherit test a",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 22,
+    "name": "inherit test b",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 23,
+    "name": "Scrum",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 24,
+    "name": "ABS  Part 4 - Vessel Systems and Machinery",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 25,
+    "name": "Groovy Test",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 26,
+    "name": "Agile Scrum 01",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 27,
+    "name": "Codebeamer Overview Demo",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 28,
+    "name": "Intland Software's Scrum Template",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 29,
+    "name": "PolarisTestCaseImportTesting",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 30,
+    "name": "TimeTrackingTest",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 31,
+    "name": "REST API Test",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 32,
+    "name": "WorkingSetTests",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 33,
+    "name": "Cytiva Tailored Walkthrough",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 34,
+    "name": "Cytiva Tailored Walkthrough 1",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 35,
+    "name": "Cytiva Tailored Walkthrough 2",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 36,
+    "name": "Yazaki Groovy Script Demo",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 37,
+    "name": "Listener Demo",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 42,
+    "name": "Baseline Copy Bug Template",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 43,
+    "name": "Baseline Copy Bug Src",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 44,
+    "name": "Baseline Copy Bug Dst",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 45,
+    "name": "ReqIF Import Test 01",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 46,
+    "name": "ReqIF Import Test 02",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 47,
+    "name": "ReqIF Import Test 03",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 48,
+    "name": "nvid",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 49,
+    "name": "Zimmer WS Testing",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 50,
+    "name": "Intland Software's Agile-Waterfall Hybrid Template",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 51,
+    "name": "Intland Software's Scrum Template 1",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 52,
+    "name": "Medical Software Engineering Template (e2.0)",
+    "type": "ProjectReference"
+  },
+  {
+    "id": 53,
+    "name": "Intland Software's Default Template 1",
+    "type": "ProjectReference"
+  }
+]

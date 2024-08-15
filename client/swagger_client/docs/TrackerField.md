@@ -1,0 +1,46 @@
+# TrackerField
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**aggregation_rule** | **str** | The Aggregation Rule for a specific Field. | [optional] 
+**choice_option_setting** | [**BaseTrackerFieldChoiceOption**](BaseTrackerFieldChoiceOption.md) |  | [optional] 
+**computed_as** | **str** |  | [optional] 
+**computed_field_references** | [**list[TrackerFieldComputedFieldReference]**](TrackerFieldComputedFieldReference.md) |  | [optional] 
+**date_field_settings** | [**TrackerFieldDateFieldSettings**](TrackerFieldDateFieldSettings.md) |  | [optional] 
+**default_values_in_statuses** | **dict(str, str)** |  | [optional] 
+**dependency** | [**TrackerFieldDependency**](TrackerFieldDependency.md) |  | [optional] 
+**description** | **str** |  | [optional] 
+**digits** | **int** |  | [optional] 
+**distribution_rule** | **str** | The Distribution Rule of a specific Field. | [optional] 
+**global_type_ids** | **list[int]** |  | [optional] 
+**height** | **int** |  | [optional] 
+**hidden** | **bool** |  | [optional] 
+**hide_if_formula** | **str** |  | [optional] 
+**hide_if_formula_same_as_field_id** | **int** |  | [optional] 
+**label** | **str** |  | [optional] 
+**listable** | **bool** |  | [optional] 
+**mandatory** | **bool** |  | [optional] 
+**mandatory_if_formula** | **str** |  | [optional] 
+**mandatory_if_formula_same_as_field_id** | **int** |  | [optional] 
+**max_value** | **str** |  | [optional] 
+**min_value** | **str** |  | [optional] 
+**multiple_selection** | **bool** |  | [optional] 
+**new_line** | **bool** |  | [optional] 
+**omit_merge** | **bool** |  | [optional] 
+**omit_suspected_when_change** | **bool** |  | [optional] 
+**permission** | [**BaseTrackerFieldPermission**](BaseTrackerFieldPermission.md) |  | [optional] 
+**position** | **int** |  | [optional] 
+**propagate_dependencies** | **bool** |  | [optional] 
+**propagate_suspect** | **bool** |  | [optional] 
+**reference_id** | **int** |  | [optional] 
+**reversed_suspect** | **bool** |  | [optional] 
+**service_desk_field** | [**TrackerFieldServiceDeskField**](TrackerFieldServiceDeskField.md) |  | [optional] 
+**span** | **int** |  | [optional] 
+**title** | **str** |  | [optional] 
+**type_id** | **int** |  | [optional] 
+**union** | **bool** |  | [optional] 
+**width** | **int** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

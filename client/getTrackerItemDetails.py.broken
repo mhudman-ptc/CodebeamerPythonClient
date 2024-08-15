@@ -1,0 +1,27 @@
+import openapi_client
+from openapi_client.models.tracker_item import TrackerItem
+from openapi_client.rest import ApiException
+from pprint import pprint
+
+# Defining the host is optional and defaults to https://nvidiatrial.codebeamer.com/api
+# See configuration.py for a list of all supported configuration parameters.
+configuration = openapi_client.Configuration(
+    host = "http://localhost:8888/api",
+    username = "mhudman",#os.environ["CB_USER"],
+    password = "password" #os.environ["CB_PASS"]
+)
+
+# Enter a context with an instance of the API client
+with openapi_client.ApiClient(configuration) as api_client:
+    # Create an instance of the API class
+    api_instance = openapi_client.TrackerItemApi(api_client)
+
+    try:
+        # Get basic tracker item
+        api_response = api_instance.get_tracker_item(2779)
+        print("The response of TrackerItemApi->get_tracker_item:\n")
+        pprint(api_response)
+    except Exception as e:
+        print("Exception when calling TrackerItemApi->get_tracker_item: %s\n" % e)
+
+
